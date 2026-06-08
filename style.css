@@ -1,6 +1,6 @@
 body {
     background-color: rgb(245, 244, 241);
-    color: rgb(235, 174, 7);
+    color: rgb(223, 145, 0);
 }
 
 h1 {
@@ -8,13 +8,19 @@ h1 {
 }   
 h2 {
     font-size: 35px;
+    border-radius: 20px;
+    padding: 20px;
 }
 p {
     font-size: 27px;
+    border-radius: 20px;
+    padding: 20px;
 }
 h2 {
-    background-color: rgb(202, 95, 32);
+    background-color: rgb(128, 77, 0);
 }
 p {
-    background-color: rgb(180, 96, 41);
+    background-color: rgb(128, 77, 0);
+    border-radius: 20px;
+    padding: 20px;
 }
